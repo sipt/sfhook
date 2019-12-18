@@ -1,4 +1,0 @@
-package: github.com/sipt/sfhook
-import:
-- package: github.com/Sirupsen/logrus
-  version: ~0.11.2
